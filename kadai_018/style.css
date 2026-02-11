@@ -1,5 +1,5 @@
 #top {
-  width: 800px,
+  width: 800px;
   margin: 20px auto;
   background-color:#dcc9f4 ;
   text-align: center;
@@ -66,6 +66,7 @@
   position: relative;
   left: 400px;
 }
+
 
 
 
