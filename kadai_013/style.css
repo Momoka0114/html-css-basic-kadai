@@ -106,7 +106,7 @@ sp用のスタイル
 }
 
 #close {
-  potition: absolute
+  position: absolute;
   top: 20px;
   right: 0;
 }
@@ -141,7 +141,7 @@ sp用のスタイル
 }
 
 #nav-sp .menu{
-  text-decoration: none;
+text-decoration: none;
 display: block;
 margin: 0 20px;
 height: 44px;
@@ -149,5 +149,11 @@ font-size: 16px;
 background-image: url("images/arrow.png");
 background-repeat: no-repeat;
 background-position: right top;
+}
+
+#menu-sp {
+  all: unset;
+  position: absolute;
+  right: 0;
 }
 }
